@@ -2,7 +2,8 @@
 
 A modern, responsive web-based English dictionary application that provides word definitions, pronunciations, examples, and synonyms.
 
-![Dictionary App Preview](https://via.placeholder.com/600x400?text=Dictionary+App+Preview)
+![English Dictionary](https://github.com/user-attachments/assets/5e74c804-c774-47e0-8086-8760a914d4a9)
+
 
 ## Features
 
