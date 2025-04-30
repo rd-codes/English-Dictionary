@@ -27,12 +27,12 @@ A modern, responsive web-based English dictionary application that provides word
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/dictionary-app.git
+git clone https://github.com/rd-codes/dictionary-app.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd dictionary-app
+cd English-Dictionary
 ```
 
 3. Open the project:
